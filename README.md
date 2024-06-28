@@ -20,6 +20,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikaspaldev)
 
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vikaspaldev&layout=compact&langs_count=15&custom_title=Wakatime%20stats%20for%20Top%2015%20languages)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools
