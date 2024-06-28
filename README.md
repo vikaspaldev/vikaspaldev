@@ -4,15 +4,13 @@
 
 ### :man_technologist: About Me
 
-•  💻 **Senior Full Stack Software Engineer** based in Kitchener, Ontario, Canada
+•  💻 **Senior Full Stack Software Engineer** based in Ontario, Canada
 
 •  🌐 **Expert in web development** with React.js, Node.js, and TypeScript
 
 •  ☁️ **Skilled in cloud technologies and DevOps**, including Kubernetes, Docker, and Terraform
 
 •  🚀 **Dedicated to enhancing developer experiences** and delivering high-quality software solutions
-
-•  :mailbox: **How to reach me**  ![](https://img.shields.io/badge/vikaspal--dev-blue?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
 
